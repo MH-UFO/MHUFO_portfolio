@@ -1,3 +1,6 @@
+body {
+  overflow-x: hidden;
+}
 .custom-background {
     background-color: #002c41;
 }
